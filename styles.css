@@ -34,6 +34,7 @@ header div ul li {
   color: #202124;
   cursor: pointer;
   border-radius: 4px;
+  font-size: 17px;
 }
 
 header div ul li:hover {
@@ -145,7 +146,7 @@ main button {
   border-radius: 4px;
   color: #3c4043;
   font-family: arial, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   padding: 0 16px;
   height: 36px;
   cursor: pointer;
@@ -167,6 +168,7 @@ footer {
 
 .country {
   padding: 12px 36px;
+  font-size: 16px;
 }
 
 footer hr {
@@ -190,6 +192,7 @@ footer hr {
   padding: 8px 12px;
   cursor: pointer;
   color: #70757a;
+  font-size: 16px;
 }
 
 .list-container ul li:hover {
