@@ -66,6 +66,20 @@ header li a:checked {
   color: inherit;
 }
 
+#portfolio-link{
+  color: #fff;
+  border: none;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 
 main {
   flex: 1;
